@@ -1,0 +1,7 @@
+/*color box properties*/
+.center {
+    height: 98vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
